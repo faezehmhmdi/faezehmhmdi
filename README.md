@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faezeh Mohammadi
-- 👀 I’m studying B.Sc. Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic)
+- 👀 I’m studying Master of Software Engineering and Technology at Chalmers University of Technology.
 - 🌱 I’m currently learning Angular and TypeScript
 
 <!---
